@@ -16,4 +16,16 @@ Instructions to run each part with Visual Studio:
 
 # Question 1 Screenshots:
 
+Entering a balanced expression:
+
+![Image](/Screenshots/postfix_complete.png?raw=true)
+
+Entering an unbalanced expression:
+
+![Image](/Screenshots/postfix_error.png?raw=true)
+
 # Question 2 Screenshots:
+
+![Image](/Screenshots/queue_empty.png?raw=true)
+
+![Image](/Screenshots/queue_not_empty.png?raw=true)
